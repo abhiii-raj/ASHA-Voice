@@ -1,0 +1,10 @@
+{
+  "name": "ASHA Voice",
+  "short_name": "ASHA Voice",
+  "description": "A voice-first visit notebook for ASHA workers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#f5f4ee",
+  "icons": []
+}
